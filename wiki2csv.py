@@ -89,6 +89,3 @@ if __name__ == '__main__':
             for l in transformTable(table)['content']:
                 wr.writerow(l)
         count = count + 1
-
-#if __name__ == '__main__':
-#    print()
